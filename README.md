@@ -1,6 +1,6 @@
 # EchemFromChess
-A supporting respository for "What Can Electrochemistry Learn From Chess?" - to be completed upon publication.
+A supporting respository for "What Can Electrochemistry Learn From Chess?"
 
-Current status: *submitted*
+publication can be found [here](https://iopscience.iop.org/article/10.1149/2.1261904jes/meta)
 
-Anticipated publish date: ~3/2019
+This repo is under construction and source code will be added soon.
